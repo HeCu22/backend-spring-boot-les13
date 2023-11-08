@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-spring-boot-lesopdracht-les13-main.iml" filepath="$PROJECT_DIR$/.idea/backend-spring-boot-lesopdracht-les13-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les13relations/les13relations.iml" filepath="$PROJECT_DIR$/les13relations/les13relations.iml" />
+    </modules>
+  </component>
+</project>
